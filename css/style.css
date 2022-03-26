@@ -604,6 +604,7 @@ p.paragraph:after {
     font-size: 20px;
     margin: 20px 0;
     font-weight: 600;
+    padding-left: 387px;
 }
 
 /*-- quote --*/
