@@ -1089,3 +1089,13 @@ a.move-top span{
     background-size: cover;
     position: relative;
 }
+@media (max-width: 415px){
+
+
+.tab-main label, .tab-main input:checked + label {
+    font-size: 15px;
+    padding: 10px;
+    border-left: none;
+    width: 57.6%;
+}
+}
