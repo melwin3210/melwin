@@ -1090,3 +1090,11 @@ a.move-top span{
     background-size: cover;
     position: relative;
 }
+@media (max-width: 480px){
+.quote h5 {
+    margin: -68px 0;
+    color: black;
+    padding-left: 262px;
+    padding-top: 62px;
+}
+}
