@@ -211,7 +211,7 @@ a.scroll.bnr-btn i{
 /* banner */
 
 .banner-w3pvt {
-	background: url(https://scontent.fcok10-1.fna.fbcdn.net/v/t39.30808-6/241048797_2046256032191448_8926423120955582633_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=aL4bE6lESRIAX-5Dxm3&_nc_ht=scontent.fcok10-1.fna&oh=00_AT_bTuw2VBQBqHFUysXFDZ-Kz3TF7QhkjxlqKDmhSUXSNw&oe=62416B17) no-repeat center;
+	background: url("/melwin/images/melwin.jpg") no-repeat center;
 	background-size: cover;
 	position: relative;
 }
